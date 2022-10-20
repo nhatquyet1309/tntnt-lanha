@@ -10,10 +10,9 @@ const CONFIG = {
     question:'Trước khi nhận quà các bạn muốn nhắn nhủ gì với chúng mình không nào 😊😊',
     reasonPlaceholder: 'Viết vào đây ne',
     btnReply: '🎁 Nhận quà ! 💌',
-    reply: 'Nam TNTN ciu ti nhất hệ mặt trờii 😊😊',
+    reply: 'Nam TNTN cute nhất hệ mặt trờii 😊😊',
     mess: 'Hihi chúng mình biết mà 🥰. Nhận quà ne  😘😘',
-    messDesc: '💬💬 Ngày 20/10 chúc một nửa thế giới luôn thành công trong cuộc sống!
- Chúc các cậu luôn duyên dáng,xinh đẹp trong mắt một nửa thế giới còn lại và chúc các cậu mãi giữ sự nhiệt tình cũng như tình yêu dành cho mái nhà TNTN 💙.  💬💬',
-    btnAccept: 'HAPPY VIETNAM WOMEN'S DAY 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    messDesc: '💬💬 Ngày 20/10 chúc một nửa thế giới luôn thành công trong cuộc sống!Chúc các cậu luôn duyên dáng,xinh đẹp trong mắt một nửa thế giới còn lại và chúc các cậu mãi giữ sự nhiệt tình cũng như tình yêu dành cho mái nhà TNTN 💙.  💬💬',
+    btnAccept: 'HAPPY VIETNAM WOMENS DAY 💖',
+    messLink: 'https://fb.watch/gh363TGOo_/'
 }
