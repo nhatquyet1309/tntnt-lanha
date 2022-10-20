@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: '🖐🖐🖐 Tập thể Nam TNTN xin chàoooo ! 🖐🖐🖐',
     introDesc: `Thêm một món quà nữa chúng mình dành tặng các cậu`,
     btnIntro: 'Nhận quà thuii',
-    title: 'Các cậu lả những người tuyệt vời nhất thế gian ? 😙',
+    title: 'Các cậu là những người tuyệt vời nhất thế gian ? 😙',
     desc: 'Chờ một chút trong lúc chúng mình chuẩn bị quà nhé :> ',
     btnYes: 'Yêu ơi là yêuu 💖💖💖',
     btnNo: '💔 Tớ ngại quá ! 💔💦 ',
